@@ -1,0 +1,8 @@
+*.hdf5
+*.h5
+logs/
+.vscode/
+__pycache__
+dist
+build
+*.egg-info
